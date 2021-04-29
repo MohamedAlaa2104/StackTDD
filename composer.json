@@ -1,0 +1,12 @@
+{
+    "name": "tdd/tdd",
+    "authors": [
+        {
+            "name": "Mohamed Alaa",
+            "email": "mohamedalaa2104@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "9.2.2"
+    }
+}
